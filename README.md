@@ -1,3 +1,9 @@
+This project has been discontinued. See: 
+
+* http://avoindata.eduskunta.fi/ 
+* http://avoindata.eduskunta.fi/api/v1/tables/SaliDBAanestys/rows?perPage=10&page=0
+* http://avoindata.eduskunta.fi/api/v1/tables/SaliDBAanestysEdustaja/rows?perPage=10&page=0
+
 # FinnishGovernmentVotes
 Convert Finnish government votes to more parsable JSON.
 
